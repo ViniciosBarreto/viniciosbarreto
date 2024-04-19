@@ -13,5 +13,5 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciosbarreto&show_icons=true&theme=cobalt2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosbarreto&layout=compact&langs_count=16&theme=cobalt2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciosbarreto&show_icons=true&theme=cobalt2&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosbarreto&layout=compact&langs_count=16&theme=cobalt2&locale=pt-br)
